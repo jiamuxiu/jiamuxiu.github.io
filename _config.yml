@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiayi Guo"
+title                    : "郭佳奕"
 title_separator          : "-"
-name                     : &name "Jiayi Guo"
-description              : &description "An architecture student"
+name                     : &name "郭佳奕"
+description              : &description "一名建筑学学生。热爱艺术和生活。"
 url                      : https://jiamuxiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiamuxiu/jiamuxiu.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiayi Guo"
+  name             : "郭佳奕"
   avatar           : "profile.png"
   bio              : "An architecture student. Passionate about art and life."
   location         : "Guangzhou"
