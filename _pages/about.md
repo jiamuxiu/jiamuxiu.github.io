@@ -19,6 +19,6 @@ redirect_from:
 获奖经历
 ======
 
-<a href="https://clustrmaps.com/site/1bd2u"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=V62E0hACfxwSOd3C90-rxco6sFhTb-yEaubS9G3Tc6Y&cl=ffffff" style="display:none" /></a>
+<a href="https://clustrmaps.com/site/1bn69"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=PZ-dJpIXCLRCwlvSk5yolRyTZCkVk0X8JP_O87i6nXE&cl=ffffff" /></a>
 
 
