@@ -27,7 +27,7 @@ redirect_from:
 - <u>2020年国际太阳能十项全能竞赛</u>
   - 华南理工大学赛队，设备模拟组成员。
   - 通过模拟结果指导方案设计，围护结构选材，遮阳构件设置。
-  - 亚洲赛区冠军，HOUSE X获得Active Excellent Award Active卓越奖。
+  - 亚洲赛区冠军，X-HOUSE获得Active Excellent Award Active卓越奖。
 
 - <u>基于生成式设计的居住区生成智能强排方案</u>
   - 武汉大学校级研究项目，已结题。
